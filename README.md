@@ -7,7 +7,9 @@ https://amyfabella.github.io/
 * HTML
 * CSS
 * JavaScript
-* jQuery
+* MongoDB
+* React
+* Node
 * BootStrap
 * Google Fonts
 * Font Awesome
